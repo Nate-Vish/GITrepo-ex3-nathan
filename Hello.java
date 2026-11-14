@@ -1,7 +1,7 @@
 public class Hello {
     public static void main(String[] args) {
         for (int i = 1; i <= 10; i++) {
-            System.out.println("Hello from Jenkins, run " + i);
+            System.out.println("Hello from Jenkins, build 4, line " + i);
         }
     }
 }
